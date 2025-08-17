@@ -9,9 +9,9 @@ It follows a standard deep learning pipeline using PyTorch and the transformers 
 
 The notebook follows a clear, step-by-step process to perform the sentiment analysis:
 
-    Data Analysis: Initial data exploration and cleaning.
+    Data Analysis: Initial data exploration and cleaning. We find that there is a clear imbaance in the data set.
 
-    Data Split: Dividing data into training and validation sets.
+    Data Split: Dividing data into training and validation sets using a stratified approach to ensure that each class had some representation in each resulting set.
 
     Tokenization: Encoding text for the BERT model.
 
