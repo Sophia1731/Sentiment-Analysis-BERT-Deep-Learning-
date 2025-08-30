@@ -31,4 +31,15 @@ Files:
 
     Project.ipynb
     
-    finetuned_bert_epoch_1_gpu_trained.model: The saved BERT model file
+    *finetuned_bert_epoch_1_gpu_trained.model: The saved BERT model file
+
+*BERT Model File
+Due to its large size, the pre-trained BERT model file used in this analysis is not included in this repository.
+
+You can download the .model file directly from my Hugging Face account at the following link:
+
+(https://huggingface.co/Sophia1731/bert-sentiment-analysis/tree/main)
+
+After downloading, please place the file in the designated project directory as specified in the analysis script.
+
+
